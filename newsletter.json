@@ -5,6 +5,10 @@
   "link": "https://ipelago.org",
   "messages": [
     {
+      "time": 1627489308,
+      "body": "发现一个 bug (Bitbucket 的小岛地址需要特殊处理), 暂时先隐藏了 Bitbucket 的教程，等有空修复。"
+    },
+    {
       "time": 1627432381,
       "body": "ipelago.org 不是 iPelago 群岛的官网，只是一个资讯网站，为了避免形成任何形式的中心，iPelago 没有官网，任何人均可搭建类似的资讯网站（提供小岛地址列表和教程）。"
     },
