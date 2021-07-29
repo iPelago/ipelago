@@ -5,6 +5,10 @@
   "link": "https://ipelago.org",
   "messages": [
     {
+      "time": 1627529057,
+      "body": "对 Bitbucket 的小岛地址进行了特殊处理，发行了新版本 (2021-07-29)"
+    },
+    {
       "time": 1627489308,
       "body": "发现一个 bug (Bitbucket 的小岛地址需要特殊处理), 暂时先隐藏了 Bitbucket 的教程，等有空修复。"
     },
